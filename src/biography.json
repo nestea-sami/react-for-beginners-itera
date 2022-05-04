@@ -1,9 +1,15 @@
 {
-  "name": "Anastasiia",
+  "name": "Anastasia",
   "b-day": "02.08.1999",
+  "languages": {
+    "en": "English",
+    "ua": "Ukrainian",
+    "es": "Spain",
+    "ru": "Russian"
+  },
   "contacts": {
-    "email": "an.samiliuk@gmail.com",
-    "instagram": "@neatea_sami",
+    "email": "example@gmail.com",
+    "instagram": "https://www.instagram.com/",
     "github": "https://github.com/nestea-sami"
   }
 }
